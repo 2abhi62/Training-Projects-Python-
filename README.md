@@ -1,1 +1,1 @@
-# Trsining-Projects
+# Training-Projects
