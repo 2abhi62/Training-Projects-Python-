@@ -1,0 +1,20 @@
+thislist=[1,2,3] 
+thislist[2]='z'
+print(thislist)
+thislist.append('j')
+print(thislist)
+thislist.insert(1,'f')
+print(thislist)
+thislist.remove(1)
+print(thislist)
+thislist.pop()
+print(thislist)
+##del thislist[1]
+##print(thislist)
+##thislist.clear()
+##print(thislist)
+##thislist=list(("a","b","c"))
+##print(thislist)
+x=5,thislist.copy()
+print(x)
+print(type(x))
